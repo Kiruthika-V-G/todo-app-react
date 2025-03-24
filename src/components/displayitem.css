@@ -1,0 +1,32 @@
+.displayItems {
+    border: 1px solid black; 
+    width: 400px;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 16px;
+}
+
+.displayContainer{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin: 40px auto; 
+}
+
+.deleteButton{
+    background-color: red;
+    border-radius: 10px;
+    width: 60px;
+    padding: 10px;
+    font-size: 16px;
+    text-align: center;
+}
+
+.editButton{
+    background-color: yellow;
+    border-radius: 10px;
+    width: 60px;
+    padding: 10px;
+    font-size: 16px;
+    text-align: center;
+}
